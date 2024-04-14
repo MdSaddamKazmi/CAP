@@ -7,3 +7,4 @@ Sequence number : Branch name
 * 3 : test_ui_with_csv_file_entries
 * 4 : add_ui
 * 5 : add_annotations
+* 6 : add_local_db_and_test_locally
