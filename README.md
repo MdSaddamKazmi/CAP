@@ -1,10 +1,10 @@
-This repo will help in learning CAP . The details are based on "CAP with Node.js" 
+* This repo will help in learning CAP . The details are based on "CAP with Node.js" 
 
-Prerequisites :
+* Prerequisites :
 a) You have BAS ( Business application studio ) editor. If not , you can create an account on https://account.hanatrial.ondemand.com/trial/#/home/trial and get access of BAS.
 
 
-You can follow below sequence of branches to learn.
+==> You can follow below sequence of branches to learn.
 
 ** Make sure to read the README.md file of each branch 
 
