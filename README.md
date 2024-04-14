@@ -8,5 +8,5 @@ open application generator with CTRL+SHIFT+P and add a template
 * Choose main entity as Students and check radio button as yes for "Automatically add table columns to the list page and a section to the object page if none already exists?"
 * on the final page of attributes , leave everything as it is ( default values) .click on Finish
 * Once above steps are done , check the folder "app"
-* use <cd Project_Student_Details> to go inside the folder and use command "cds watch" to check the data  on port 4004 
+* use "cd Project_Student_Details" to go inside the folder and use command "cds watch" to check the data on port 4004 
 * UI will be available under section web applications
