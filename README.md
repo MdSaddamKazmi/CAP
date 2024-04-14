@@ -9,5 +9,5 @@ clone the repo and switch to branch : add_annotations
  -few columns are not getting displayed by default and can only be displayed by clicking on settings button on UI
  -there is only 1 facet (General information) on detail page
 
-* Open the file annotations.cds in the path app/project1 and add required annotations.
+* Open the file annotations.cds in the path app/project1 and check added required annotations.
 * In case you want to add any other annotation , you can refer https://cap.cloud.sap/docs/advanced/fiori
