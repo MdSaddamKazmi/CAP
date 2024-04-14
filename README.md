@@ -1,8 +1,6 @@
 clone the repo and switch to branch : add_ui
 
 
-### branch 2 ###
-
 open application generator with CTRL+SHIFT+P and add a template
 
 * select "list report page" template. click on next
