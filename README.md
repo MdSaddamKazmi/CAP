@@ -9,3 +9,4 @@ Sequence number : Branch name
 * 4 : add_ui
 * 5 : add_annotations
 * 6 : add_local_db_and_test_locally
+* 7 : draft_enabled
