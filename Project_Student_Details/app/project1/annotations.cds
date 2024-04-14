@@ -1,4 +1,4 @@
-using EmployeeService as service from '../../srv/StudentDetails-service';
+using StudentService as service from '../../srv/StudentDetails-service';
 
 annotate service.Students with @(
     // UI.FieldGroup #GeneratedGroup: {
