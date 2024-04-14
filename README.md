@@ -2,7 +2,9 @@ clone the repo and switch to branch : custom_handler
 
 
 
-* use "cd Project_Student_Details" to go inside the folder
+* use "cd Project_Student_Details" to go inside the folder.
+
+** If you are directly checking this branch ,first deploy to sqlite by using command  "cds deploy --to sqlite:student.db"
 
 * create a file inside srv folder with naming convention as namespace-service.js  // here the file name is StudentDetails-service.js 
 
