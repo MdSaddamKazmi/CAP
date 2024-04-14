@@ -1,24 +1,16 @@
-clone the repo and switch to branch : add_annotations
+clone the repo and switch to branch : draft_enabled
 
 
 
 * use "cd Project_Student_Details" to go inside the folder
-* open package.json and check for the dependencies
-* use command "npm install sqlite3 @sap/cds-sqlite" to install local db
 
-* add below code in package.json 
+* open annotation file app/project1/annotations.cds
 
-  "cds": {
-    "requires": {
-      "db": {
-        "kind": "sqlite",
-        "credentials": {
-          "database": "student.db"  // "your choice".db
-        }
-      }
-    }
-  }
+* add the annotation to make the entities draft enabled //  odata.dearft.enabled
 
-* use command "cds deploy --to sqlite:student.db" // db name can be anything based on your choice : "your choice".db 
+* use command "cds deploy --to sqlite:student.db" to deploy changes to sqlite db
 
-* add a test.http file "( filename can be anyname with http extension ) under ur root folder to test the CRUD operation locally   
+* Once you do this , use cds watch command and open the UI to check if "Create" button got enabled 
+
+* Click on "create" button and fill the values but do not save it. Go back to the main page of UI and you will see that the draft record is getting displayed in the list. 
+

@@ -1,6 +1,10 @@
 using StudentService as service from '../../srv/StudentDetails-service';
 
 annotate service.Students with @(
+
+    odata.draft.enabled,  //Make students entity as draft enabled
+
+
     // UI.FieldGroup #GeneratedGroup: {
     //     $Type: 'UI.FieldGroupType',
     //     Data : [
