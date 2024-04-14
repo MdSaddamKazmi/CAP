@@ -1,4 +1,4 @@
-clone this repo and switch to branch : add_basic_schema_and_service
+clone this repo and switch to branch : test_ui_with_csv_file_entries
 by using command "git switch test_ui_with_csv_file_entries"
 
 
