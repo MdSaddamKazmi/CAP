@@ -1,8 +1,8 @@
 * This repo will help in learning CAP . The details are based on "CAP with Node.js" and UI has been created with Fiori elements template.
 
 * Prerequisites :
-a) You have BAS ( Business application studio ) editor. If not , you can create an account on https://account.hanatrial.ondemand.com/trial/#/home/trial and get access of BAS.
-b) You opened BAS editor with devspace as "Full stack cloud application"
+  * You have BAS ( Business application studio ) editor. If not , you can create an account on https://account.hanatrial.ondemand.com/trial/#/home/trial and get access of BAS.
+  * You opened BAS editor with devspace as "Full stack cloud application"
 
 
 
