@@ -1,5 +1,5 @@
 ### Read data 
-GET http://localhost:4004/odata/v4/StudentDetails/Students
+GET http://localhost:42591/odata/v4/StudentDetails/Students
 
 ### Read single record based on student id
 GET http://localhost:4004/odata/v4/StudentDetails/Students(101)
@@ -13,17 +13,17 @@ GET http://localhost:4004/odata/v4/StudentDetails/Students?$expand=school
 
 
 ### Create Student Record
-POST http://localhost:4004/odata/v4/StudentDetails/Students
+POST http://localhost:42591/odata/v4/StudentDetails/Students
 Content-Type: application/json
 
-{     "student_id": 201,
+{     "student_id": 281,
       "firstName": "first name",
       "lastName": "last name",
       "dateOfBirth": "2000-04-14",
       "dateOfJoining": "2014-04-14",
       "email": "tes2t@gmail.com",
       "phoneNumber": "9234567890",
-      "school_school_id": 199 }
+      "school_school_id": 999 }
 
 
 ### Read School data 
