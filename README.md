@@ -1,16 +1,15 @@
-clone the repo and switch to branch : draft_enabled
+clone the repo and switch to branch : custom_handler
 
 
 
 * use "cd Project_Student_Details" to go inside the folder
 
-* open annotation file app/project1/annotations.cds
+* create a file inside srv folder with naming convention as namespace-service.js  // here the file name is StudentDetails-service.js 
 
-* add the annotation to make the entities draft enabled //  odata.dearft.enabled
+* Add the code to update email as firstname + last name + @gmail.com if email field is left blank while creating student record
 
-* use command "cds deploy --to sqlite:student.db" to deploy changes to sqlite db
+* Add the code to increase the strength of school by 1 once the student record is added for that school
 
-* Once you do this , use cds watch command and open the UI to check if "Create" button got enabled 
-
-* Click on "create" button and fill the values but do not save it. Go back to the main page of UI and you will see that the draft record is getting displayed in the list. 
+* use command "cds watch".Check the schoolstrength of a school record.
+* create a record of student and then check the record of school . It should have increased by 1
 
