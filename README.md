@@ -5,10 +5,11 @@ a) You have BAS ( Business application studio ) editor. If not , you can create 
 b) You opened BAS editor with devspace as "Full stack cloud application"
 
 
-==> You can follow below sequence of branches to learn.
 
 ** Make sure to read the README.md file of each branch and check those files in directory (after cloning) which have been mentioned in this file. Most of the steps have already been taken. You just need to check those statements which will help to run the UI once you clone the repo. 
 
+** You can follow below sequence of branches to learn.
+------------------------------
 Sequence number : Branch name
 ------------------------------
 * 1 : basic_cap_structure
