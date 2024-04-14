@@ -7,4 +7,4 @@ Add folder csv inside folder db and add files per entity with naming convention 
 
 
 
-* use <cd Project_Student_Details> to go inside the folder and use command "cds watch" to check the data  on port 4004 
+* use command "cd Project_Student_Details" in terminal to go inside the folder and use command "cds watch" to check the data  on port 4004 
