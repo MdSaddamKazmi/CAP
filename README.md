@@ -1,4 +1,4 @@
-clone the repo and switch to branch : add_annotations
+clone the repo and switch to branch : add_local_db_and_test_locally
 
 
 
