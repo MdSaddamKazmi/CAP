@@ -10,7 +10,7 @@ clone the repo and switch to branch : draft_enabled
 
 * open annotation file app/project1/annotations.cds
 
-* add the annotation to make the entities draft enabled //  odata.dearft.enabled
+* Annotation has been addeds to make the entities draft enabled //  odata.dearft.enabled
 
 * use command "cds deploy --to sqlite:student.db" to deploy changes to sqlite db
 
