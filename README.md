@@ -1,4 +1,5 @@
-This repo will help in learning CAP . You can follow below sequence of branches to learn.
+This repo will help in learning CAP . The details are based on "CAP with Node.js" 
+You can follow below sequence of branches to learn.
 
 Sequence number : Branch name
 ------------------------------
