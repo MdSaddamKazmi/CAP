@@ -1,6 +1,8 @@
 This repo will help in learning CAP . The details are based on "CAP with Node.js" 
 You can follow below sequence of branches to learn.
 
+** Make sure to read the README.md file of each branch 
+
 Sequence number : Branch name
 ------------------------------
 * 1 : basic_cap_structure
