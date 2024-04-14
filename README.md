@@ -2,7 +2,11 @@ clone the repo and switch to branch : draft_enabled
 
 
 
-* use "cd Project_Student_Details" to go inside the folder and use command "cds watch" to check UI on port 4004
+* use "cd Project_Student_Details" to go inside the folder
+
+** If you are directly checking this branch ,first deploy to sqlite by using command  "cds deploy --to sqlite:student.db"
+
+* use command "cds watch" to check UI on port 4004
 
 * open annotation file app/project1/annotations.cds
 
