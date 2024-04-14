@@ -6,7 +6,7 @@ a) You have BAS ( Business application studio ) editor. If not , you can create 
 
 ==> You can follow below sequence of branches to learn.
 
-** Make sure to read the README.md file of each branch 
+** Make sure to read the README.md file of each branch and check those files in directory (after cloning) which have been mentioned in this file.
 
 Sequence number : Branch name
 ------------------------------
