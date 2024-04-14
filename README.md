@@ -13,3 +13,6 @@ clone the repo and switch to branch : custom_handler
 * use command "cds watch".Check the schoolstrength of a school record.
 * create a record of student and then check the record of school . It should have increased by 1
 
+
+*** you can get more knowledge of services via the link : https://cap.cloud.sap/docs/node.js/core-services
+
