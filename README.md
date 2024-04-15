@@ -9,6 +9,8 @@
     ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/8833890c-c6ac-428e-b376-01dbb62e8f3e)
     ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/f4524ff2-607e-4ed8-b8f4-672e79d956e1)
     ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/f8d82e40-debf-4784-a808-2aa602972068)
+    ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/a4e91ace-015f-473c-8ecd-47ca8d76c993)
+
 
 
 ** Make sure to read the README.md file of each branch and check those files in directory (after cloning) which have been mentioned in this file. Most of the steps have already been taken. You just need to check those statements which will help to run the UI once you clone the repo. 
