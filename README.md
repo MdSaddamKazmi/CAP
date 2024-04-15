@@ -2,7 +2,7 @@ clone the repo and switch to branch : draft_enabled
 
 
 Below steps have been taken ==>
-* Annotation has been addeds to make the entities draft enabled //  odata.dearft.enabled
+* Annotation was added to make the entities draft enabled //  odata.dearft.enabled
 
 
 What you need to do ==>
