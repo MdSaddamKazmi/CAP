@@ -1,4 +1,4 @@
-clone this repo and switch to branch : test_ui_with_csv_file_entries
+clone this repo and switch to branch : check_service_and_preview_with_csv_file_entries
 by using command "git switch test_ui_with_csv_file_entries"
 
 Below steps have been taken ==>
