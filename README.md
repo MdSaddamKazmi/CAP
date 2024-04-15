@@ -1,4 +1,4 @@
-clone this repo and switch to branch : check_service_and_preview_with_csv_file_entries by using command "git switch test_ui_with_csv_file_entries"
+clone this repo and switch to branch : check_service_and_preview_with_csv_file_entries by using command "git switch check_service_and_preview_with_csv_file_entries"
 
 Below steps have been taken ==>
 * Added csv folder inside db folder and added files per entity with naming convention as :
