@@ -8,7 +8,7 @@ Below steps have been taken ==>
 
 * Added the code to update email as firstname + last name + @gmail.com if email field is left blank while creating student record
 
-* Added the code to increase the strength of school by 1 once the student record is added for that school
+* Added the code to increase the strength (number of students in school) of school by 1 once the student record is added for that school
 
 
 What you need to do ==>
