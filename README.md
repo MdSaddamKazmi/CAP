@@ -1,4 +1,4 @@
-clone this repo and switch to branch : basic_cap__structure
+clone this repo and switch to branch : basic_cap_structure
 
 
 Below staps have been taken ==>
