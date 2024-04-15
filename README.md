@@ -4,7 +4,7 @@ clone the repo and switch to branch : custom_handler
 
 
 Below steps have been taken ==>
-* A file has been created inside srv folder with naming convention as namespace-service.js  // here the file name is StudentDetails-service.js 
+* A file was created inside srv folder with naming convention as namespace-service.js  // here the file name is StudentDetails-service.js 
 
 * Added the code to update email as firstname + last name + @gmail.com if email field is left blank while creating student record
 
