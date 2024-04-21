@@ -17,7 +17,7 @@
       ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/ab8bb28d-a81e-4403-8842-af21ee5eae0b)
       
       ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/e66b1e06-c910-4635-8643-1fadea0d73cd)
-      This is the repository path : https://github.com/MdSaddamKazmi/CAP.git
+  This is the repository path : https://github.com/MdSaddamKazmi/CAP.git
 
     * Press CTRL+SHIFT+P to open command pallet and type "open folder" and choose below path /home/user/projects/CAP.
       ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/e80ededd-3b3a-4390-92c4-181f560951e8)
