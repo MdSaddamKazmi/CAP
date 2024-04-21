@@ -16,7 +16,8 @@ What you need to do ==>
 ** If you are directly checking this branch ,first deploy to sqlite by using command  "cds deploy --to sqlite:student.db"
 * use command "cds watch".Check the schoolstrength of a school record.
 * create a record of student and then check the record of school . It should have increased by 1
-
+* use CTRL+C in Terminal to stop the local server
 
 *** you can get more knowledge of services via the link : https://cap.cloud.sap/docs/node.js/core-services
+
 
