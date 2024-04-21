@@ -11,6 +11,17 @@
     ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/f8d82e40-debf-4784-a808-2aa602972068)
     ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/a4e91ace-015f-473c-8ecd-47ca8d76c993)
 
+* How to clone the repo to BAS :
+ 
+    * As soon as you open the BAS ,you will see below screen on which you can click on "Clone from Git".
+      ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/ab8bb28d-a81e-4403-8842-af21ee5eae0b)
+    * Press CTRL+SHIFT+P to open comman pallet and type "open folder" and choose below path /home/user/projects/CAP and click on OK.
+      ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/e80ededd-3b3a-4390-92c4-181f560951e8)
+
+    * If you don't see "Get started" page on opening BAS then follow below shown path :
+     ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/29a8d958-d280-4a6c-bc6b-ba316e243599)
+
+
 
 
 ** Make sure to read the README.md file of each branch and check those files in directory (after cloning) which have been mentioned in this file. Most of the steps have already been taken. You just need to check those statements which will help to run the UI once you clone the repo. 
