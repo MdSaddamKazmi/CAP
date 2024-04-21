@@ -1,5 +1,7 @@
 clone this repo and switch to branch : check_service_and_preview_with_csv_file_entries by using command "git switch check_service_and_preview_with_csv_file_entries"
 
+(No need to clone the repo again if you have already cloned it once. you can just switch to above mentioned branch)
+
 Below steps have been taken ==>
 * Added csv folder inside db folder and added files per entity with naming convention as :
 namespace-entityname.csv ( you can check the name of namespace in schema.cds file in db folder )
