@@ -14,3 +14,4 @@ What you need to do ==>
 * Check the folder app/project1
 * use "cd Project_Student_Details" to go inside the folder and use command "cds watch" to check the data on port 4004 
 * UI will be available under the section "web applications"
+* Once you have checked UI , use CTRL+C in Terminal to stop the local server
