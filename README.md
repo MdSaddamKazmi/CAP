@@ -10,3 +10,9 @@ What you need to do ==>
 * Check the schema and service in db and srv folders respectively.
 * use "cd Project_Student_Details" command in terminal to go inside the folder and use command "cds watch" to check the metadata on port 4004
 * once you have checked metadata , use CTRL+C in Terminal to stop the local server
+
+
+
+**Previous Branch : https://github.com/MdSaddamKazmi/CAP/tree/add_basic_schema_and_service
+
+**Next Branch : https://github.com/MdSaddamKazmi/CAP/tree/check_service_and_preview_with_csv_file_entries
