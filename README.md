@@ -1,4 +1,5 @@
 clone the repo and switch to branch : add_local_db_and_test_locally
+(No need to clone the repo again if you have already cloned it once. you can just switch to above mentioned branch)
 
 
 Below steps have been taken ==>
