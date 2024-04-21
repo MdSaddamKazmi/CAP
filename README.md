@@ -22,3 +22,4 @@ What you need to do ==>
 * use command "cds deploy --to sqlite:student.db" // db name can be anything based on your choice : "your choice".db 
 * "test.http" file has been added "( filename can be anyname with http extension ) under your root folder to test the CRUD operation locally.
 * use command "cd Project_Student_Details" command in terminal to go inside the folder and use command "cds watch" and then click on "send request" in test.http file for CRUD operation
+* Once tested , use CTRL+C in Terminal to stop the local server
