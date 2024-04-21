@@ -15,7 +15,7 @@
  
     * As soon as you open the BAS ,you will see below screen on which you can click on "Clone from Git".
       ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/ab8bb28d-a81e-4403-8842-af21ee5eae0b)
-    * Press CTRL+SHIFT+P to open command pallet and type "open folder" and choose below path /home/user/projects/CAP and click on OK.
+    * Press CTRL+SHIFT+P to open command pallet and type "open folder" and choose below path /home/user/projects/CAP.
       ![image](https://github.com/MdSaddamKazmi/CAP/assets/54942497/e80ededd-3b3a-4390-92c4-181f560951e8)
 
     * If you don't see "Get started" page on opening BAS then follow below shown path :
