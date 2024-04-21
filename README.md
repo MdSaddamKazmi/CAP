@@ -25,6 +25,6 @@ What you need to do ==>
 * use command "cd Project_Student_Details" command in terminal to go inside the folder and use command "cds watch" and then click on "send request" in test.http file for CRUD operation
 * Once tested , use CTRL+C in Terminal to stop the local server
 
-**Previous Branch : https://github.com/MdSaddamKazmi/CAP/tree/add_local_db_and_test_locally
+**Previous Branch : https://github.com/MdSaddamKazmi/CAP/tree/add_annotations
 
-**Next Branch : https://github.com/MdSaddamKazmi/CAP/tree/custom_handler
+**Next Branch : https://github.com/MdSaddamKazmi/CAP/tree/draft_enabled
