@@ -24,3 +24,7 @@ What you need to do ==>
 * "test.http" file has been added "( filename can be anyname with http extension ) under your root folder to test the CRUD operation locally.
 * use command "cd Project_Student_Details" command in terminal to go inside the folder and use command "cds watch" and then click on "send request" in test.http file for CRUD operation
 * Once tested , use CTRL+C in Terminal to stop the local server
+
+**Previous Branch : https://github.com/MdSaddamKazmi/CAP/tree/add_local_db_and_test_locally
+
+**Next Branch : https://github.com/MdSaddamKazmi/CAP/tree/custom_handler
