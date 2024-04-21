@@ -6,4 +6,5 @@ Below steps have been taken ==>
 
 What you need to do ==>
 * Check the schema and service in db and srv folders respectively.
-* use "cd Project_Student_Details" command in terminal to go inside the folder and use command "cds watch" to check the metadata on port 4004 
+* use "cd Project_Student_Details" command in terminal to go inside the folder and use command "cds watch" to check the metadata on port 4004
+* once you have checked metadata , use CTRL+C in Terminal to stop the local server
