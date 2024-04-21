@@ -1,4 +1,6 @@
 clone this repo and switch to branch : add_basic_schema_and_service
+(No need to clone the repo again if you have already cloned it once. you can just switch to above mentioned branch)
+
 
 Below steps have been taken ==>
 * Added schema file in db folder and service file in srv folder
