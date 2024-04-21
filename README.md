@@ -14,3 +14,7 @@ What you need to do ==>
 * Open the file annotations.cds in the path app/project1 and check the added annotations.
 * In case you want to add any other annotation , you can refer https://cap.cloud.sap/docs/advanced/fiori
 * once you have checked changes on annotations on UI , use CTRL+C in Terminal to stop the local server
+
+**Previous Branch : https://github.com/MdSaddamKazmi/CAP/tree/add_ui
+
+**Next Branch : https://github.com/MdSaddamKazmi/CAP/tree/add_local_db_and_test_locally
