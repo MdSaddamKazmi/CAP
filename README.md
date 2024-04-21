@@ -13,3 +13,7 @@ What you need to do ==>
 * Add any number of records in csv files as per your choice
 * use command "cd Project_Student_Details" in terminal to go inside the folder and use command "cds watch" to check the data  on port 4004
 * Once you have checked the data , use CTRL+C in Terminal to stop the local server
+
+**Previous Branch : https://github.com/MdSaddamKazmi/CAP/tree/add_basic_schema_and_service
+
+**Next Branch : https://github.com/MdSaddamKazmi/CAP/tree/add_ui
