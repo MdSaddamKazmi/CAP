@@ -12,3 +12,4 @@ What you need to do ==>
 * use "cd Project_Student_Details" to go inside the folder and use command "cds watch" to check the app on port 4004 
 * Open the file annotations.cds in the path app/project1 and check the added annotations.
 * In case you want to add any other annotation , you can refer https://cap.cloud.sap/docs/advanced/fiori
+* once you have checked changes on annotations on UI , use CTRL+C in Terminal to stop the local server
