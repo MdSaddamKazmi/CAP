@@ -42,6 +42,7 @@ Sequence number : Branch name
 * 6 : add_local_db_and_test_locally
 * 7 : draft_enabled
 * 8 : custom_handler
+* 9 : composition
 
 
 
