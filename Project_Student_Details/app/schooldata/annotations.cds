@@ -1,0 +1,1 @@
+using StudentService as service from '../../srv/StudentDetails-service';

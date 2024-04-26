@@ -2,7 +2,7 @@ using StudentService as service from '../../srv/StudentDetails-service';
 
 annotate service.Students with @(
 
-    odata.draft.enabled, //Make students entity as draft enabled
+    // odata.draft.enabled, //Make students entity as draft enabled
 
 
     // UI.FieldGroup #GeneratedGroup: {
@@ -93,6 +93,7 @@ annotate service.Students with @(
                 $Type: 'UI.DataField',
                 Label: 'School ID',
                 Value: school_school_id,
+                
             },
         ],
     },
@@ -256,8 +257,6 @@ annotate service.Schools with @(
     odata.draft.enabled, //Make students entity as draft enabled
 
 
-
-
     UI.FieldGroup #SchoolInfo    : {
         $Type: 'UI.FieldGroupType',
         Data : [
@@ -295,8 +294,6 @@ annotate service.Schools with @(
     },
 
 
-
-
     UI.FieldGroup #Administrative: {
         $Type: 'UI.FieldGroupType',
         Data : [
@@ -326,27 +323,37 @@ annotate service.Schools with @(
         ],
     },
 
-    UI.Facets                    : [{
-        $Type : 'UI.CollectionFacet',
-        Label : '{i18n>GeneralInformation}',
-        ID    : 'School',
-        Facets: [
-            { // Studnet Info
-                $Type : 'UI.ReferenceFacet',
-                ID    : 'SchoolInfo',
-                Target: '@UI.FieldGroup#SchoolInfo',
-                Label : 'Sudent Info'
-            },
-            { // Administrative information
-                $Type : 'UI.ReferenceFacet',
-                ID    : 'Administrative',
-                Target: '@UI.FieldGroup#Administrative',
-                Label : 'Administrative Data'
-            }
-        ]
-    }],    
+    UI.Facets                    : [
+        {
+            $Type : 'UI.CollectionFacet',
+            Label : '{i18n>GeneralInformation}',
+            ID    : 'School',
+            Facets: [
+                { // Studnet Info
+                    $Type : 'UI.ReferenceFacet',
+                    ID    : 'SchoolInfo',
+                    Target: '@UI.FieldGroup#SchoolInfo',
+                    Label : 'Sudent Info'
+                },
+                { // Administrative information
+                    $Type : 'UI.ReferenceFacet',
+                    ID    : 'Administrative',
+                    Target: '@UI.FieldGroup#Administrative',
+                    Label : 'Administrative Data'
+                }
+            ]
+        },
+        // Students information
+        {
+            $Type : 'UI.ReferenceFacet',
+            ID    : 'Students',
+            Target: 'students/@UI.LineItem',
+            Label : 'Students Data'
+        }
 
-    UI.LineItem       : [
+    ],
+
+    UI.LineItem                  : [
         {
             $Type: 'UI.DataField',
             Label: 'School ID', // change column label
@@ -360,7 +367,7 @@ annotate service.Schools with @(
 
     ],
     // add selection field
-    UI.SelectionFields: [school_id]
+    UI.SelectionFields           : [school_id]
 
 
 )
