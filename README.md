@@ -1,4 +1,4 @@
-clone this repo and switch to branch : basic_cap_structure by using command "git switch basis_cap_structure"
+clone this repo and switch to branch : basic_cap_structure by using command "git switch basic_cap_structure"
 
 
 Below staps have been taken ==>
