@@ -57,7 +57,7 @@ annotate service.Students with @(
     //     Target: '@UI.FieldGroup#GeneratedGroup',
     // },],
 
-    UI.FieldGroup #SudentInfo    : {
+    UI.FieldGroup #StudentInfo    : {
         $Type: 'UI.FieldGroupType',
         Data : [
             {
@@ -147,9 +147,9 @@ annotate service.Students with @(
         Facets: [
             { // Studnet Info
                 $Type : 'UI.ReferenceFacet',
-                ID    : 'SudentInfo',
-                Target: '@UI.FieldGroup#SudentInfo',
-                Label : 'Sudent Info'
+                ID    : 'StudentInfo',
+                Target: '@UI.FieldGroup#StudentInfo',
+                Label : 'Student Info'
             },
             { // Administrative information
                 $Type : 'UI.ReferenceFacet',
@@ -327,7 +327,7 @@ annotate service.Schools with @(
                 $Type : 'UI.ReferenceFacet',
                 ID    : 'SchoolInfo',
                 Target: '@UI.FieldGroup#SchoolInfo',
-                Label : 'Sudent Info'
+                Label : 'School Info'
             },
             { // Administrative information
                 $Type : 'UI.ReferenceFacet',
